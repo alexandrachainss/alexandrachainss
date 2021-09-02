@@ -1,0 +1,3 @@
+- Hi, I’m @alexandrachains in all social media.
+- I’m interested in graphic design and programming.
+- I’m currently learning computer science to set the base to learn web development and other skills.
